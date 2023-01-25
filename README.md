@@ -26,3 +26,5 @@
 
 ## 3. Methods and System Design
 The high-level component diagram and the way how each component communicate with each other are shown in Figure 1 and the main flow of the proposed system is illustrated in Figure 2
+
+![Figure 1](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1.png)
