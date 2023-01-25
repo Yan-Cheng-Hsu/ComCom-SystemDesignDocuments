@@ -29,6 +29,6 @@
 
 
 ![Figure 1 v1](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1_v1.png)
-![Figure 1 v2](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1_v2.png)
+![Figure 1 v2](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure2_v2.png)
 
 <p align="center">Figure 1 Component diagram of Comcom project</p>
