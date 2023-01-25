@@ -14,14 +14,16 @@
 ### 2.2 Project Requirements 
 **In Scope**
 <ul>
-    <li><i>Frontend</i></li> 
-    <li><i>Backend</i></li>
+    <li><i><b>Frontend</b></i>
+    <br> 
+    </li> 
+    <li><i><b>Backend</b></i></li>
 </ul>
 
 **Out of Scope**
 <ul>
-    <li><i>Frontend</i></li>
-    <li><i>Backend</i></li>
+    <li><i><b>Frontend</b></i></li>
+    <li><i><b>Backend</b></i></li>
 </ul>
 
 ## 3. Methods and System Design
@@ -29,6 +31,10 @@
 
 
 ![Figure 1 v1](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1_v1.png)
-![Figure 1 v2](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure2_v2.png)
+![Figure 1 v2](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1_v2.png)
 
-<p align="center">Figure 1 Component diagram of Comcom project</p>
+<p align="center"><b>Figure 1</b> Component diagram of Comcom project</p>
+
+![Figure 2](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure2.png)
+
+<p align="center"><b>Figure 2</b> Main flow of our Comcom project</p>
