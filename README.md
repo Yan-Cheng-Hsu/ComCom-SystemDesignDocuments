@@ -25,6 +25,9 @@
 </ul>
 
 ## 3. Methods and System Design
-The high-level component diagram and the way how each component communicate with each other are shown in Figure 1 and the main flow of the proposed system is illustrated in Figure 2
+&emsp;&emsp; The high-level component diagram is shown in Figure 1 and the main flow of the proposed system and how components communicate with each other are illustrated in Figure 2, which is composed of Comcom Backend, Comcom Frontend and communication encryption services provided by AWS. In this section, a detailed explanation about each part is presented, with a summary introduced as follows:
+
 
 ![Figure 1](https://github.com/Yan-Cheng-Hsu/ComCom-SystemDesignDocuments/blob/master/docs/Figure1.png)
+
+<center>Figure 1 Component diagram of Comcom project</center>
